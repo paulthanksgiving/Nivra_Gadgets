@@ -37,7 +37,7 @@ The project is designed to be scalable, fast, and easily deployable on **Netlify
 - **Data Source:** Fake Store API  
 - **Deployment:** Netlify
 
-  nivra/
+nivra/
 ├── public/             # Static assets
 ├── src/
 │   ├── assets/         # Images, icons, fonts
